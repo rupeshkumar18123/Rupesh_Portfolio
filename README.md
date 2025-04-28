@@ -30,3 +30,5 @@ Feel free to reach out to me:
 - **Portfolio Website**: [Your Portfolio Website](#)
 
 Thank you for visiting my portfolio!"# Rupesh_Portfolio" 
+
+------------------------------------------------------------------
