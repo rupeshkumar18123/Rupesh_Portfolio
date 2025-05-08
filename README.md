@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! This repository showcases my projects, skills, and experiences as a developer.
 
-### Table of Contents
+## Table of Contents
 - [About Me](#about-me)
 - [Projects](#projects)
 - [Skills](#skills)
