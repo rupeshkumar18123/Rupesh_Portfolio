@@ -9,7 +9,7 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 - [Contact](#contact)
 
 ## About Me
-I am a passionate developer with expertise in building modern web applications using the MERN stack. I enjoy solving problems and creating user-friendly solutions.
+I am a passionate developer with expertise in building modern web applications using the MERN stack. I enjoy solving problems and creating user-friendly solutions.....
 
 ## Projects
 Here are some of the projects I have worked on:
